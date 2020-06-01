@@ -4,7 +4,7 @@ This repository contains pre-trained models, wordnet ids, and a simple feature e
 This paper is accepted for publication in the Transactions on Multimedia Computing Communications and Applications (TOMM).
 <br><br>
 <center>
-<img src="data/bottomup-visualization.png" alt="Drawing" style="width: 400px;"/>
+<img src="data/bottomup-visualization.png" alt="Drawing" style="width: 300px;"/>
 </center>
 <br><br>
 The repository includes:
@@ -12,6 +12,13 @@ The repository includes:
 * Download script for pre-computed MxNet models.
 * Script to obtain fully-connected or softmax representations for an individual frame.
 * WordNet ids for the concepts used in different models.
+
+## Used software
+
+* Python 3.7.4
+* MxNet 1.6.0
+* Numpy 1.17.2
+* nltk 3.4.5 (optional)
 
 ## Downloading the pre-trained models
 
